@@ -20,5 +20,6 @@ Generate QR codes effortlessly using this straightforward web tool! Built with H
 
 Developed by ONKAR
 
+
 Create QR codes the simple way! 📲🔗
-- watch [](https://onkar156.github.io/js-qr-code/)
+-[watch](https://onkar156.github.io/js-qr-code/)
