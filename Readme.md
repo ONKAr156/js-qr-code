@@ -17,10 +17,8 @@ Generate QR codes effortlessly using this straightforward web tool! Built with H
 
 🙌 **Credits:**
 - GoQR API
-- Icons from FontAwesome
 
 Developed by ONKAR
 
-
-
 Create QR codes the simple way! 📲🔗
+- watch [](https://onkar156.github.io/js-qr-code/)

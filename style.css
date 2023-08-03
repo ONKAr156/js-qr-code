@@ -24,6 +24,16 @@
    flex-direction: column;
    border-radius: 5px;
    padding: 2rem;
+   /* box-shadow: -10px 10px 10px coral; */
+   /* used a box shadow generator */
+   box-shadow: 21px 17px 5px -5px rgba(167,40,40,0.63);
+-webkit-box-shadow: 21px 17px 5px -5px rgba(167,40,40,0.63);
+-moz-box-shadow: 21px 17px 5px -5px rgba(167,40,40,0.63);
+ }
+ .title{
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
  }
  input{
     padding: 0.5rem;
@@ -48,7 +58,8 @@
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center
+    align-items: center;
+    padding: 1rem;
 
 }
  .QR_code img{
